@@ -20,7 +20,7 @@
   nav {
     float: left;
     width: 30%;
-    height: 100px;
+    height: 200px;
     background: #00FF00;
     padding: 20px;
   }
@@ -30,7 +30,7 @@
     float: left;
     padding: 20px;
     width: 70%;
-    height: 100px;
+    height: 200px;
     background-color: #00FFFF;
   }
   
